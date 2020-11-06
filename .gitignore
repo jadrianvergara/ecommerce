@@ -2,9 +2,8 @@
 .idea/
 .iml
 .DS_Store
-
+node/modules
 #===============================
-
 
 
 HELP.md
